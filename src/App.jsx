@@ -1,5 +1,5 @@
-export const myName = ''
+export const myName = 'Jesús'
 
 export function App() {
-  return <div>Hello world, my name is </div>
+  return <div>Hello world, my name is {myName}</div>
 }
