@@ -13,7 +13,7 @@ export const secondPicture = {
 }
 
 export const thirdPicture = {
-  imgURL: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/800px-Meisje_met_de_parel.jpg',
+  imgURL: 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg',
   author: 'Johannes Vermeer',
   paintingName: 'La joven de la perla',
   authorDescription: 'Johannes Vermeer (1632–1675) fue un pintor holandés del Barroco. Es reconocido por sus obras detalladas que capturan la luz y la vida cotidiana con una técnica exquisita. "La joven de la perla" es una de sus obras más famosas, apreciada por su uso magistral de la luz y la sombra.'
