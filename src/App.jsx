@@ -1,9 +1,9 @@
 export function App() {
   return (
-    <>
-      <h1>Creditos solicitados</h1>
-      <table>
-        <thead>
+      <>
+        <h1>Creditos solicitados</h1>
+        <table>
+          <thead>
           <tr>
             <th>número de créditos</th>
             <th>nombre</th>
@@ -11,8 +11,8 @@ export function App() {
             <th>cantidad solicitada</th>
             <th>aprobado</th>
           </tr>
-        </thead>
-        <tbody>
+          </thead>
+          <tbody>
           <tr>
             <td>1</td>
             <td>Juan Pérez</td>
@@ -188,8 +188,8 @@ export function App() {
             <td>10000</td>
             <td>No</td>
           </tr>
-        </tbody>
-      </table>
-    </>
-  )
+          </tbody>
+        </table>
+      </>
+  );
 }
