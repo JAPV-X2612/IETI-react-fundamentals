@@ -1,5 +1,5 @@
-import './App.css'
+import './App.css';
 
 export function App() {
-	return <h1>Ada-project</h1>
+  return <h1>Ada-project</h1>;
 }
